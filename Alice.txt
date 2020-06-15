@@ -1,2 +1,4 @@
 Hi! I'm Alice. I'm a file someone added to this repository a while ago.
 And this is a new line from me. Where does it go?
+
+I like how it is going!
